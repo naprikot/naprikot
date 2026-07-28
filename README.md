@@ -1,7 +1,7 @@
-- 👋 Hi, I’m norr1x
+- 👋 Hi, I’m ofn1r
 - 👀 I’m interested in ...Blockchain
 - 🌱 I’m currently learning ...JavaScript☕
-- 📫 How to reach me ... DM me on Insta @x_radd_2099
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 <!---
 X-Radd999/X-Radd999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
