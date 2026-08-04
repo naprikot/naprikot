@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm naprikot <img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/fluent-emojis/waving-hand-light.svg" width="30" /></h1>
+<h1 align="center">Hi there, I'm naprikot <img src="https://cdn.betterttv.net/emote/5f6295104c714103dfb53def/3x.webp" width="30" /></h1>
 
 <p align="center">
   <em>Systems enthusiast, terminal tinkerer, and open-source explorer.</em>
