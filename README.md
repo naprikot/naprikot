@@ -67,8 +67,14 @@
 
 <!-- OS / Environment -->
 <p align="center">
+  <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
+  <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40"     height="40" />
   </a>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hyprland.svg" alt="Hyprland" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
+  <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
 </p>
