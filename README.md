@@ -30,6 +30,8 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="42" height="42"/>
   &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="42" height="42"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="42" height="42"/>
@@ -42,16 +44,26 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="42" height="42"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="42" height="42"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/zed-industries/zed/main/assets/icons/zed.svg" alt="Zed" title="Zed" width="42" height="42"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="42" height="42"/>
 </p>
 
 ---
+
+### 👾 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/swargiary" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="38" height="38"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/reddborne" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" title="Instagram" width="38" height="38"/>
+  </a>
+</p>
 
 <!-- OS / Environment -->
 <p align="center">
@@ -60,9 +72,3 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hyprland.svg" alt="Hyprland" width="40" height="40" />
 </p>
-
----
-
-### 📫 Connect with Me
-
-- GitHub: [@naprikot](https://github.com/naprikot)
