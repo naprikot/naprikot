@@ -46,7 +46,7 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="42" height="42"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/zed-industries/zed/main/assets/icons/zed.svg" alt="Zed" title="Zed" width="42" height="42"/>
+  <img src="https://cdn.simpleicons.org/zedindustries/white" alt="Zed" title="Zed" width="42" height="42"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="42" height="42"/>
 </p>
