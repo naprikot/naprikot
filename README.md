@@ -4,9 +4,9 @@
   <em>Systems enthusiast, terminal tinkerer, and open-source explorer.</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naprikot&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
@@ -26,11 +26,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <!-- OS / Environment -->
-  <a href="https://archlinux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -42,13 +37,20 @@
   </a>
 </p>
 
-- **Operating System:** Arch Linux (Zen Kernel)
-- **Window Management:** Hyprland / Niri
-- **Editor:** Helix / Zed (Helix keymaps)
-- **Filesystem:** Btrfs
+- **Operating System:** Arch Linux 
 
 ---
 
+<!-- OS / Environment -->
+<p align="center">
+  <a href="https://archlinux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40"     height="40" />
+  </a>
+
+  <a href="https://hypr.land/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hyprland.svg" alt="Hyprland" width="40" height="40" />
+  </a>
+</p>
 
 ---
 
