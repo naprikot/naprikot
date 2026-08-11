@@ -10,7 +10,7 @@
 
 - 🔭 Currently exploring **Full Stack Development**.
 - 🌌 Deeply fascinated by the **cosmos**, celestial mechanics, and the quiet expanse of the universe.
-<!-- 🌱 Passionate about minimalist window management, keyboard-driven workflows, and stripping away software bloat.-->
+- 🌱 Passionate about minimalist window management, keyboard-driven workflows, and stripping away software bloat.
 - ✴️ Believer that good code—much like the cosmos—is governed by elegant, underlying rules hidden beneath the surface.
 
 ---
