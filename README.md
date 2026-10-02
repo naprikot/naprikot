@@ -52,25 +52,6 @@
 ### 👾 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/swargiary" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="38" height="38"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/reddborne" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" title="Instagram" width="38" height="38"/>
-  </a>
+<a href="https://www.linkedin.com/in/swargiary"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="38" height="38"/></a>
+<a href="https://www.instagram.com/reddborne"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" title="Instagram" width="38" height="38"/></a>
 </p>
-
-<!-- OS / Environment -->
-<!-- <p align="center">
-  <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
-  <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40"     height="40" />
-  </a>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hyprland.svg" alt="Hyprland" width="40" height="40" />
-  &nbsp;
-  <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
-  <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
-</p> -->
