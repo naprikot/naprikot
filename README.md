@@ -64,7 +64,7 @@
 </p>
 
 <!-- OS / Environment -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
   <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
   &nbsp;
@@ -75,4 +75,4 @@
   &nbsp;
   <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
   <img src="https://cdn.7tv.app/emote/01F6Q59108000EQZ7QARQ95J6S/3x.gif" width="40" height="40" />
-</p>
+</p> -->
